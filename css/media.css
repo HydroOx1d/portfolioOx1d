@@ -1,0 +1,45 @@
+@media screen and (max-width: 450px) {
+    .nav {
+        display: none;
+    }
+
+    .logo-name {
+        margin: 0 auto;
+        padding-top: 10px;
+    }
+
+    .info__title {
+        max-width: 100%;
+        font-size: 22px;
+    }
+    .skills-inner  {
+        padding-top: 0;
+    }
+
+    .skills-item {
+        padding-left: 20px;
+        max-width: 100%;
+    }
+
+    .about__text {
+        margin: 0 auto;
+    }
+
+    .about {
+        height: 100%;
+    }
+
+    .about__block-text {
+        padding-left: 20px;
+    }
+
+    .contact__input,
+    .contact__input-2,
+    .contacts__btn {
+        max-width: 100%;
+    }
+
+    .footer {
+        height: 100%;
+    }
+}
